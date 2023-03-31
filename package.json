@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "inquirer": "^8.2.4",
     "jest": "^29.5.0"
   },
   "name": "logo-maker",
@@ -9,7 +10,6 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
